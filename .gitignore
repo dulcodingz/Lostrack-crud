@@ -1,0 +1,13 @@
+# Folder hasil compile Maven (Wajib diabaikan)
+/target/
+
+# Chace IDE & NetBeans
+/.idea/
+/.nb-gradle/
+/nbproject/private
+/nbproject/workspace-impl.xml
+
+# Log & OS Junk
+*.log
+.DS_Store
+Thumbs.db
